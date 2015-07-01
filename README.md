@@ -1,2 +1,1 @@
-# golive_magna
-Golive Magna
+app setup
